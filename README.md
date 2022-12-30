@@ -9,6 +9,7 @@
 # Overflow
 
 # Demo
+![poster](https://user-images.githubusercontent.com/98375394/210039402-b381743a-a891-4b13-8c04-e154adc27104.png)
 
 # Future works
 - 추후 출력 단어를 입력을 이모지콘이나 이미지에 대응시켜 감성형 쳇팅 어플리케이션등에 활용
