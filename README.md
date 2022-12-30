@@ -1,6 +1,8 @@
 # Text-to-Emotion
 - 입력 텍스트(문장)으로 부터 문장내용을 분석하여 주요 감정을 분류하여 감정표현 단어(Happy, Sadness, Surprise....)로 출력해주는 기능
 
+# Setting
+
 # Overflow
 
 # Demo
